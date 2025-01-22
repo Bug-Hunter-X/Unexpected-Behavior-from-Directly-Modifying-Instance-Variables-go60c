@@ -1,0 +1,1 @@
+This example demonstrates a common, yet subtle, bug in Ruby where directly manipulating instance variables using `instance_variable_set` can cause unexpected behavior and violate encapsulation principles.  The `bug.rb` file shows the problematic code, while `bugSolution.rb` presents a more robust approach.
